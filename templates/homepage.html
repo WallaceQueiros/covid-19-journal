@@ -23,15 +23,12 @@
                             <img src="{{ url_for('static', filename=noticia['image_url']) }}" style="width:100%">
                             <h5 class="text-center">Visualizações: {{noticia['visualizacoes']}}</h5><h5 class="text-center">Curtidas: {{noticia['curtidas']}}</h5>
                         </a>
-                        <h5>
-                            {{noticia['texto']}}
-                        </h5>
                     </div>     
                 {% endfor %}
             </div>
         </div>
 
-
+        
         <div class="jumbotron text-center">
             <h1>Estados</h1>
             <h2 class="text-center">Noticias mais recentes.</h2>
@@ -50,9 +47,6 @@
                             <img src="{{ url_for('static', filename=noticia['image_url']) }}" style="width:100%">
                             <h5 class="text-center">Visualizações: {{noticia['visualizacoes']}}</h5><h5 class="text-center">Curtidas: {{noticia['curtidas']}}</h5>
                         </a>
-                        <h5>
-                            {{noticia['texto']}}
-                        </h5>
                     </div>  
                 {% endfor %}
             {% endfor %}

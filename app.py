@@ -16,12 +16,15 @@ def homepage():
     estados = read_json('estados.json')
     
     # 5 noticias mais curtidas do json
-    mais_curtidas = sorted(noticias, key=lambda i: i['curtidas'], reverse=True)[:5]
+    mais_curtidas = sorted(noticias, key=lambda i: i['curtidas'], reverse=True)[:6]
 
     # 3 noticias mais recentes de cada estado
     for estado in estados:
         estado_noticias = [n for n in noticias if n['estado'] == estado['sigla']]
-        estado_noticias = sorted(estado_noticias, key=lambda x: datetime.strptime(x['data'], '%d/%m/%Y'))
+        estado_noticias = sorted(
+            estado_noticias, 
+            key=lambda x: datetime.strptime(x['data'], '%d/%m/%Y')
+        )
         estado['noticias'] = estado_noticias[-3:]
 
     # renderiza os templates
