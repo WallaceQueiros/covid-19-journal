@@ -31,5 +31,15 @@ def homepage():
     return render_template('homepage.html', mais_curtidas=mais_curtidas, por_estado=estados)
 
 
+@app.route('/<estado>/<noticia_id>')
+def newspage(estado=None, noticia_id=None):
+    noticias = read_json('noticias.json')
+    noticia_id = int(noticia_id)
+    for n in noticias:
+        if n['id'] == noticia_id:
+            return render_template('newspage.html', noticia=n)
+    return '<h1>404 - Pagina nao encontrada</h1>'
+
+
 if __name__ == '__main__':
     app.run()
