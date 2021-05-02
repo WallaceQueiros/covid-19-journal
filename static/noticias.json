@@ -1,243 +1,242 @@
 [
-
-
     {
+        "id": 1,
         "titulo": "noticia 1",
         "video_url": "videos/noticia1.mp4",
         "image_url": "images/noticia1.jpg",
         "texto": "Lorem ipsum dolor sit amet. Non pariatur dolor vel exercitationem eveniet cum voluptate vero qui velit deserunt et pariatur consequatur et magnam veniam. Ipsam earum ea galisum earum sit ipsum dolores rem quibusdam deserunt non laboriosam facilis qui ullam architecto ut vero cumque. Qui aliquam assumenda Ea dolor et internos eos repellat odio aut animi galisum. Qui ullam quasi sed itaque blanditiis Qui obcaecati At omnis suscipit aut quisquam minus eum vero omnis et odio ipsa. Ut fugit modi eos voluptatem omnis ab expedita nemo ab voluptatem nisi et ipsum natus.",
-        "estado": "RJ",
-        "curtidas": 769,
-        "dia": 20,
-        "mes": 3,
-        "ano": 2021
+        "estado": "MG",
+        "curtidas": 665,
+        "data": "6/1/2021",
+        "visualizacoes": 1715
     },
 
     {
+        "id": 2,
         "titulo": "noticia 2",
         "video_url": "videos/noticia2.mp4",
         "image_url": "images/noticia2.jpg",
         "texto": "Lorem ipsum dolor sit amet. Non pariatur dolor vel exercitationem eveniet cum voluptate vero qui velit deserunt et pariatur consequatur et magnam veniam. Ipsam earum ea galisum earum sit ipsum dolores rem quibusdam deserunt non laboriosam facilis qui ullam architecto ut vero cumque. Qui aliquam assumenda Ea dolor et internos eos repellat odio aut animi galisum. Qui ullam quasi sed itaque blanditiis Qui obcaecati At omnis suscipit aut quisquam minus eum vero omnis et odio ipsa. Ut fugit modi eos voluptatem omnis ab expedita nemo ab voluptatem nisi et ipsum natus.",
-        "estado": "RJ",
-        "curtidas": 517,
-        "dia": 4,
-        "mes": 2,
-        "ano": 2021
+        "estado": "ES",
+        "curtidas": 23386,
+        "data": "6/3/2021",
+        "visualizacoes": 28963
     },
 
     {
+        "id": 3,
         "titulo": "noticia 3",
         "video_url": "videos/noticia3.mp4",
         "image_url": "images/noticia3.jpg",
         "texto": "Lorem ipsum dolor sit amet. Non pariatur dolor vel exercitationem eveniet cum voluptate vero qui velit deserunt et pariatur consequatur et magnam veniam. Ipsam earum ea galisum earum sit ipsum dolores rem quibusdam deserunt non laboriosam facilis qui ullam architecto ut vero cumque. Qui aliquam assumenda Ea dolor et internos eos repellat odio aut animi galisum. Qui ullam quasi sed itaque blanditiis Qui obcaecati At omnis suscipit aut quisquam minus eum vero omnis et odio ipsa. Ut fugit modi eos voluptatem omnis ab expedita nemo ab voluptatem nisi et ipsum natus.",
         "estado": "ES",
-        "curtidas": 599,
-        "dia": 16,
-        "mes": 2,
-        "ano": 2021
+        "curtidas": 15665,
+        "data": "25/2/2021",
+        "visualizacoes": 15674
     },
 
     {
+        "id": 4,
         "titulo": "noticia 4",
         "video_url": "videos/noticia4.mp4",
         "image_url": "images/noticia4.jpg",
         "texto": "Lorem ipsum dolor sit amet. Non pariatur dolor vel exercitationem eveniet cum voluptate vero qui velit deserunt et pariatur consequatur et magnam veniam. Ipsam earum ea galisum earum sit ipsum dolores rem quibusdam deserunt non laboriosam facilis qui ullam architecto ut vero cumque. Qui aliquam assumenda Ea dolor et internos eos repellat odio aut animi galisum. Qui ullam quasi sed itaque blanditiis Qui obcaecati At omnis suscipit aut quisquam minus eum vero omnis et odio ipsa. Ut fugit modi eos voluptatem omnis ab expedita nemo ab voluptatem nisi et ipsum natus.",
         "estado": "MG",
-        "curtidas": 312,
-        "dia": 24,
-        "mes": 3,
-        "ano": 2021
+        "curtidas": 10801,
+        "data": "30/1/2021",
+        "visualizacoes": 16349
     },
 
     {
+        "id": 5,
         "titulo": "noticia 5",
         "video_url": "videos/noticia5.mp4",
         "image_url": "images/noticia5.jpg",
         "texto": "Lorem ipsum dolor sit amet. Non pariatur dolor vel exercitationem eveniet cum voluptate vero qui velit deserunt et pariatur consequatur et magnam veniam. Ipsam earum ea galisum earum sit ipsum dolores rem quibusdam deserunt non laboriosam facilis qui ullam architecto ut vero cumque. Qui aliquam assumenda Ea dolor et internos eos repellat odio aut animi galisum. Qui ullam quasi sed itaque blanditiis Qui obcaecati At omnis suscipit aut quisquam minus eum vero omnis et odio ipsa. Ut fugit modi eos voluptatem omnis ab expedita nemo ab voluptatem nisi et ipsum natus.",
-        "estado": "RJ",
-        "curtidas": 800,
-        "dia": 28,
-        "mes": 3,
-        "ano": 2021
+        "estado": "ES",
+        "curtidas": 14682,
+        "data": "3/3/2021",
+        "visualizacoes": 16405
     },
 
     {
+        "id": 6,
         "titulo": "noticia 6",
         "video_url": "videos/noticia6.mp4",
         "image_url": "images/noticia6.jpg",
         "texto": "Lorem ipsum dolor sit amet. Non pariatur dolor vel exercitationem eveniet cum voluptate vero qui velit deserunt et pariatur consequatur et magnam veniam. Ipsam earum ea galisum earum sit ipsum dolores rem quibusdam deserunt non laboriosam facilis qui ullam architecto ut vero cumque. Qui aliquam assumenda Ea dolor et internos eos repellat odio aut animi galisum. Qui ullam quasi sed itaque blanditiis Qui obcaecati At omnis suscipit aut quisquam minus eum vero omnis et odio ipsa. Ut fugit modi eos voluptatem omnis ab expedita nemo ab voluptatem nisi et ipsum natus.",
-        "estado": "SP",
-        "curtidas": 356,
-        "dia": 30,
-        "mes": 2,
-        "ano": 2021
+        "estado": "RJ",
+        "curtidas": 8329,
+        "data": "7/3/2021",
+        "visualizacoes": 15339
     },
 
     {
+        "id": 7,
         "titulo": "noticia 7",
         "video_url": "videos/noticia7.mp4",
         "image_url": "images/noticia7.jpg",
         "texto": "Lorem ipsum dolor sit amet. Non pariatur dolor vel exercitationem eveniet cum voluptate vero qui velit deserunt et pariatur consequatur et magnam veniam. Ipsam earum ea galisum earum sit ipsum dolores rem quibusdam deserunt non laboriosam facilis qui ullam architecto ut vero cumque. Qui aliquam assumenda Ea dolor et internos eos repellat odio aut animi galisum. Qui ullam quasi sed itaque blanditiis Qui obcaecati At omnis suscipit aut quisquam minus eum vero omnis et odio ipsa. Ut fugit modi eos voluptatem omnis ab expedita nemo ab voluptatem nisi et ipsum natus.",
-        "estado": "ES",
-        "curtidas": 791,
-        "dia": 25,
-        "mes": 3,
-        "ano": 2021
+        "estado": "MG",
+        "curtidas": 9087,
+        "data": "12/1/2021",
+        "visualizacoes": 12253
     },
 
     {
+        "id": 8,
         "titulo": "noticia 8",
         "video_url": "videos/noticia8.mp4",
         "image_url": "images/noticia8.jpg",
         "texto": "Lorem ipsum dolor sit amet. Non pariatur dolor vel exercitationem eveniet cum voluptate vero qui velit deserunt et pariatur consequatur et magnam veniam. Ipsam earum ea galisum earum sit ipsum dolores rem quibusdam deserunt non laboriosam facilis qui ullam architecto ut vero cumque. Qui aliquam assumenda Ea dolor et internos eos repellat odio aut animi galisum. Qui ullam quasi sed itaque blanditiis Qui obcaecati At omnis suscipit aut quisquam minus eum vero omnis et odio ipsa. Ut fugit modi eos voluptatem omnis ab expedita nemo ab voluptatem nisi et ipsum natus.",
         "estado": "RJ",
-        "curtidas": 261,
-        "dia": 21,
-        "mes": 3,
-        "ano": 2021
+        "curtidas": 3892,
+        "data": "23/1/2021",
+        "visualizacoes": 5229
     },
 
     {
+        "id": 9,
         "titulo": "noticia 9",
         "video_url": "videos/noticia9.mp4",
         "image_url": "images/noticia9.jpg",
         "texto": "Lorem ipsum dolor sit amet. Non pariatur dolor vel exercitationem eveniet cum voluptate vero qui velit deserunt et pariatur consequatur et magnam veniam. Ipsam earum ea galisum earum sit ipsum dolores rem quibusdam deserunt non laboriosam facilis qui ullam architecto ut vero cumque. Qui aliquam assumenda Ea dolor et internos eos repellat odio aut animi galisum. Qui ullam quasi sed itaque blanditiis Qui obcaecati At omnis suscipit aut quisquam minus eum vero omnis et odio ipsa. Ut fugit modi eos voluptatem omnis ab expedita nemo ab voluptatem nisi et ipsum natus.",
-        "estado": "MG",
-        "curtidas": 564,
-        "dia": 9,
-        "mes": 1,
-        "ano": 2021
+        "estado": "RJ",
+        "curtidas": 603,
+        "data": "15/1/2021",
+        "visualizacoes": 1925
     },
 
     {
+        "id": 10,
         "titulo": "noticia 10",
         "video_url": "videos/noticia10.mp4",
         "image_url": "images/noticia10.jpg",
         "texto": "Lorem ipsum dolor sit amet. Non pariatur dolor vel exercitationem eveniet cum voluptate vero qui velit deserunt et pariatur consequatur et magnam veniam. Ipsam earum ea galisum earum sit ipsum dolores rem quibusdam deserunt non laboriosam facilis qui ullam architecto ut vero cumque. Qui aliquam assumenda Ea dolor et internos eos repellat odio aut animi galisum. Qui ullam quasi sed itaque blanditiis Qui obcaecati At omnis suscipit aut quisquam minus eum vero omnis et odio ipsa. Ut fugit modi eos voluptatem omnis ab expedita nemo ab voluptatem nisi et ipsum natus.",
-        "estado": "RJ",
-        "curtidas": 379,
-        "dia": 7,
-        "mes": 2,
-        "ano": 2021
+        "estado": "MG",
+        "curtidas": 21395,
+        "data": "6/2/2021",
+        "visualizacoes": 26993
     },
 
     {
+        "id": 11,
         "titulo": "noticia 11",
         "video_url": "videos/noticia11.mp4",
         "image_url": "images/noticia11.jpg",
         "texto": "Lorem ipsum dolor sit amet. Non pariatur dolor vel exercitationem eveniet cum voluptate vero qui velit deserunt et pariatur consequatur et magnam veniam. Ipsam earum ea galisum earum sit ipsum dolores rem quibusdam deserunt non laboriosam facilis qui ullam architecto ut vero cumque. Qui aliquam assumenda Ea dolor et internos eos repellat odio aut animi galisum. Qui ullam quasi sed itaque blanditiis Qui obcaecati At omnis suscipit aut quisquam minus eum vero omnis et odio ipsa. Ut fugit modi eos voluptatem omnis ab expedita nemo ab voluptatem nisi et ipsum natus.",
         "estado": "SP",
-        "curtidas": 136,
-        "dia": 10,
-        "mes": 1,
-        "ano": 2021
+        "curtidas": 1623,
+        "data": "3/2/2021",
+        "visualizacoes": 1932
     },
 
     {
+        "id": 12,
         "titulo": "noticia 12",
         "video_url": "videos/noticia12.mp4",
         "image_url": "images/noticia12.jpg",
         "texto": "Lorem ipsum dolor sit amet. Non pariatur dolor vel exercitationem eveniet cum voluptate vero qui velit deserunt et pariatur consequatur et magnam veniam. Ipsam earum ea galisum earum sit ipsum dolores rem quibusdam deserunt non laboriosam facilis qui ullam architecto ut vero cumque. Qui aliquam assumenda Ea dolor et internos eos repellat odio aut animi galisum. Qui ullam quasi sed itaque blanditiis Qui obcaecati At omnis suscipit aut quisquam minus eum vero omnis et odio ipsa. Ut fugit modi eos voluptatem omnis ab expedita nemo ab voluptatem nisi et ipsum natus.",
-        "estado": "SP",
-        "curtidas": 465,
-        "dia": 7,
-        "mes": 1,
-        "ano": 2021
+        "estado": "RJ",
+        "curtidas": 4979,
+        "data": "9/1/2021",
+        "visualizacoes": 13073
     },
 
     {
+        "id": 13,
         "titulo": "noticia 13",
         "video_url": "videos/noticia13.mp4",
         "image_url": "images/noticia13.jpg",
         "texto": "Lorem ipsum dolor sit amet. Non pariatur dolor vel exercitationem eveniet cum voluptate vero qui velit deserunt et pariatur consequatur et magnam veniam. Ipsam earum ea galisum earum sit ipsum dolores rem quibusdam deserunt non laboriosam facilis qui ullam architecto ut vero cumque. Qui aliquam assumenda Ea dolor et internos eos repellat odio aut animi galisum. Qui ullam quasi sed itaque blanditiis Qui obcaecati At omnis suscipit aut quisquam minus eum vero omnis et odio ipsa. Ut fugit modi eos voluptatem omnis ab expedita nemo ab voluptatem nisi et ipsum natus.",
-        "estado": "MG",
-        "curtidas": 609,
-        "dia": 19,
-        "mes": 1,
-        "ano": 2021
+        "estado": "SP",
+        "curtidas": 8140,
+        "data": "23/3/2021",
+        "visualizacoes": 23375
     },
 
     {
+        "id": 14,
         "titulo": "noticia 14",
         "video_url": "videos/noticia14.mp4",
         "image_url": "images/noticia14.jpg",
         "texto": "Lorem ipsum dolor sit amet. Non pariatur dolor vel exercitationem eveniet cum voluptate vero qui velit deserunt et pariatur consequatur et magnam veniam. Ipsam earum ea galisum earum sit ipsum dolores rem quibusdam deserunt non laboriosam facilis qui ullam architecto ut vero cumque. Qui aliquam assumenda Ea dolor et internos eos repellat odio aut animi galisum. Qui ullam quasi sed itaque blanditiis Qui obcaecati At omnis suscipit aut quisquam minus eum vero omnis et odio ipsa. Ut fugit modi eos voluptatem omnis ab expedita nemo ab voluptatem nisi et ipsum natus.",
         "estado": "SP",
-        "curtidas": 380,
-        "dia": 4,
-        "mes": 2,
-        "ano": 2021
+        "curtidas": 3544,
+        "data": "23/2/2021",
+        "visualizacoes": 20211
     },
 
     {
+        "id": 15,
         "titulo": "noticia 15",
         "video_url": "videos/noticia15.mp4",
         "image_url": "images/noticia15.jpg",
         "texto": "Lorem ipsum dolor sit amet. Non pariatur dolor vel exercitationem eveniet cum voluptate vero qui velit deserunt et pariatur consequatur et magnam veniam. Ipsam earum ea galisum earum sit ipsum dolores rem quibusdam deserunt non laboriosam facilis qui ullam architecto ut vero cumque. Qui aliquam assumenda Ea dolor et internos eos repellat odio aut animi galisum. Qui ullam quasi sed itaque blanditiis Qui obcaecati At omnis suscipit aut quisquam minus eum vero omnis et odio ipsa. Ut fugit modi eos voluptatem omnis ab expedita nemo ab voluptatem nisi et ipsum natus.",
-        "estado": "RJ",
-        "curtidas": 806,
-        "dia": 25,
-        "mes": 1,
-        "ano": 2021
+        "estado": "MG",
+        "curtidas": 5091,
+        "data": "28/2/2021",
+        "visualizacoes": 21488
     },
 
     {
+        "id": 16,
         "titulo": "noticia 16",
         "video_url": "videos/noticia16.mp4",
         "image_url": "images/noticia16.jpg",
         "texto": "Lorem ipsum dolor sit amet. Non pariatur dolor vel exercitationem eveniet cum voluptate vero qui velit deserunt et pariatur consequatur et magnam veniam. Ipsam earum ea galisum earum sit ipsum dolores rem quibusdam deserunt non laboriosam facilis qui ullam architecto ut vero cumque. Qui aliquam assumenda Ea dolor et internos eos repellat odio aut animi galisum. Qui ullam quasi sed itaque blanditiis Qui obcaecati At omnis suscipit aut quisquam minus eum vero omnis et odio ipsa. Ut fugit modi eos voluptatem omnis ab expedita nemo ab voluptatem nisi et ipsum natus.",
-        "estado": "SP",
-        "curtidas": 509,
-        "dia": 4,
-        "mes": 3,
-        "ano": 2021
+        "estado": "RJ",
+        "curtidas": 20460,
+        "data": "17/1/2021",
+        "visualizacoes": 25670
     },
 
     {
+        "id": 17,
         "titulo": "noticia 17",
         "video_url": "videos/noticia17.mp4",
         "image_url": "images/noticia17.jpg",
         "texto": "Lorem ipsum dolor sit amet. Non pariatur dolor vel exercitationem eveniet cum voluptate vero qui velit deserunt et pariatur consequatur et magnam veniam. Ipsam earum ea galisum earum sit ipsum dolores rem quibusdam deserunt non laboriosam facilis qui ullam architecto ut vero cumque. Qui aliquam assumenda Ea dolor et internos eos repellat odio aut animi galisum. Qui ullam quasi sed itaque blanditiis Qui obcaecati At omnis suscipit aut quisquam minus eum vero omnis et odio ipsa. Ut fugit modi eos voluptatem omnis ab expedita nemo ab voluptatem nisi et ipsum natus.",
-        "estado": "ES",
-        "curtidas": 334,
-        "dia": 7,
-        "mes": 2,
-        "ano": 2021
+        "estado": "MG",
+        "curtidas": 18203,
+        "data": "21/1/2021",
+        "visualizacoes": 23638
     },
 
     {
+        "id": 18,
         "titulo": "noticia 18",
         "video_url": "videos/noticia18.mp4",
         "image_url": "images/noticia18.jpg",
         "texto": "Lorem ipsum dolor sit amet. Non pariatur dolor vel exercitationem eveniet cum voluptate vero qui velit deserunt et pariatur consequatur et magnam veniam. Ipsam earum ea galisum earum sit ipsum dolores rem quibusdam deserunt non laboriosam facilis qui ullam architecto ut vero cumque. Qui aliquam assumenda Ea dolor et internos eos repellat odio aut animi galisum. Qui ullam quasi sed itaque blanditiis Qui obcaecati At omnis suscipit aut quisquam minus eum vero omnis et odio ipsa. Ut fugit modi eos voluptatem omnis ab expedita nemo ab voluptatem nisi et ipsum natus.",
         "estado": "MG",
-        "curtidas": 684,
-        "dia": 1,
-        "mes": 3,
-        "ano": 2021
+        "curtidas": 4303,
+        "data": "10/3/2021",
+        "visualizacoes": 16167
     },
 
     {
+        "id": 19,
         "titulo": "noticia 19",
         "video_url": "videos/noticia19.mp4",
         "image_url": "images/noticia19.jpg",
         "texto": "Lorem ipsum dolor sit amet. Non pariatur dolor vel exercitationem eveniet cum voluptate vero qui velit deserunt et pariatur consequatur et magnam veniam. Ipsam earum ea galisum earum sit ipsum dolores rem quibusdam deserunt non laboriosam facilis qui ullam architecto ut vero cumque. Qui aliquam assumenda Ea dolor et internos eos repellat odio aut animi galisum. Qui ullam quasi sed itaque blanditiis Qui obcaecati At omnis suscipit aut quisquam minus eum vero omnis et odio ipsa. Ut fugit modi eos voluptatem omnis ab expedita nemo ab voluptatem nisi et ipsum natus.",
-        "estado": "RJ",
-        "curtidas": 131,
-        "dia": 22,
-        "mes": 1,
-        "ano": 2021
+        "estado": "SP",
+        "curtidas": 18212,
+        "data": "9/1/2021",
+        "visualizacoes": 23338
     },
 
     {
+        "id": 20,
         "titulo": "noticia 20",
         "video_url": "videos/noticia20.mp4",
         "image_url": "images/noticia20.jpg",
         "texto": "Lorem ipsum dolor sit amet. Non pariatur dolor vel exercitationem eveniet cum voluptate vero qui velit deserunt et pariatur consequatur et magnam veniam. Ipsam earum ea galisum earum sit ipsum dolores rem quibusdam deserunt non laboriosam facilis qui ullam architecto ut vero cumque. Qui aliquam assumenda Ea dolor et internos eos repellat odio aut animi galisum. Qui ullam quasi sed itaque blanditiis Qui obcaecati At omnis suscipit aut quisquam minus eum vero omnis et odio ipsa. Ut fugit modi eos voluptatem omnis ab expedita nemo ab voluptatem nisi et ipsum natus.",
-        "estado": "MG",
-        "curtidas": 849,
-        "dia": 25,
-        "mes": 1,
-        "ano": 2021
+        "estado": "SP",
+        "curtidas": 101,
+        "data": "1/2/2021",
+        "visualizacoes": 1937
     }
+
 ]

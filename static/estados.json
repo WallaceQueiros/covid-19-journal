@@ -6,17 +6,17 @@
     },
     {
         "sigla": "MG",
-        "name": "Rio de Janeiro",
+        "name": "Minas Gerais",
         "bandeira": "images/mg.jpg"
     },
     {
         "sigla": "ES",
-        "name": "Rio de Janeiro",
+        "name": "Espirito Santo",
         "bandeira": "images/es.jpg"
     },
     {
         "sigla": "SP",
-        "name": "Rio de Janeiro",
+        "name": "São Paulo",
         "bandeira": "images/sp.jpg"
     }
 
