@@ -14,12 +14,10 @@
         </div>
 
         <div class="container-fluid">
-
-
             <div class="center-block panel-collapse">
                 {% for noticia in mais_curtidas %}
                     <div class="col-sm-4">
-                        <h3 class="text-center">{{ noticia['titulo'] }}</h3>
+                        <h3>{{ noticia['titulo'] }} - <span style="font-size: smaller !important;">{{ noticia['data']}}</span></h3>
                         <a class="container-fluid text-center" href="/{{noticia['estado']}}/{{noticia['id']}}">
                             
                             <img src="{{ url_for('static', filename=noticia['image_url']) }}" style="width:100%">
@@ -46,7 +44,7 @@
                 </div>
                 {% for noticia in estado['noticias'] %}
                     <div class="col-sm-4">
-                        <h3 class="text-center">{{ noticia['titulo'] }}</h3>
+                        <h3>{{ noticia['titulo'] }} - <span style="font-size: smaller !important;">{{ noticia['data']}}</span></h3>
                         <a class="container-fluid text-center" href="/{{noticia['estado']}}/{{noticia['id']}}">
                             
                             <img src="{{ url_for('static', filename=noticia['image_url']) }}" style="width:100%">
