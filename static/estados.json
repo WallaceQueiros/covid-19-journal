@@ -1,0 +1,23 @@
+[
+    {
+        "sigla": "RJ",
+        "name": "Rio de Janeiro",
+        "bandeira": "images/rj.jpg"
+    },
+    {
+        "sigla": "MG",
+        "name": "Rio de Janeiro",
+        "bandeira": "images/mg.jpg"
+    },
+    {
+        "sigla": "ES",
+        "name": "Rio de Janeiro",
+        "bandeira": "images/es.jpg"
+    },
+    {
+        "sigla": "SP",
+        "name": "Rio de Janeiro",
+        "bandeira": "images/sp.jpg"
+    }
+
+]
