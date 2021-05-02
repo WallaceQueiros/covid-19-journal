@@ -28,27 +28,32 @@
             </div>
         </div>
 
-        
+
         <div class="jumbotron text-center">
             <h1>Estados</h1>
             <h2 class="text-center">Noticias mais recentes.</h2>
         </div>
-        <div class="container-fluid">
+        <div class="container-fluid" style="margin-bottom:5%">
             {% for estado in por_estado %}
-                <div class="jumbotron center-block panel">
-                    <h2 class="text-center"> {{ estado['name'] }} - {{ estado['sigla'] }}</h2>
-                    <img src="{{ url_for('static', filename=estado['bandeira']) }}" style="width:100%">
+                <div class="container-fluid" style="margin-bottom:15%">
+                    <div class="jumbotron center-block panel">
+                        <h2 class="text-center"> {{ estado['name'] }} - {{ estado['sigla'] }}</h2>
+                        <img 
+                            class="center-block" 
+                            src="{{ url_for('static', filename=estado['bandeira']) }}" style="padding-left:10%; padding-right:10%"
+                        />
+                    </div>
+                    {% for noticia in estado['noticias'] %}
+                        <div class="col-sm-4">
+                            <h3>{{ noticia['titulo'] }} - <span style="font-size: smaller !important;">{{ noticia['data']}}</span></h3>
+                            <a class="container-fluid text-center" href="/{{noticia['estado']}}/{{noticia['id']}}">
+                                
+                                <img src="{{ url_for('static', filename=noticia['image_url']) }}" style="width:100%">
+                                <h5 class="text-center">Visualizações: {{noticia['visualizacoes']}}</h5><h5 class="text-center">Curtidas: {{noticia['curtidas']}}</h5>
+                            </a>
+                        </div>  
+                    {% endfor %}
                 </div>
-                {% for noticia in estado['noticias'] %}
-                    <div class="col-sm-4">
-                        <h3>{{ noticia['titulo'] }} - <span style="font-size: smaller !important;">{{ noticia['data']}}</span></h3>
-                        <a class="container-fluid text-center" href="/{{noticia['estado']}}/{{noticia['id']}}">
-                            
-                            <img src="{{ url_for('static', filename=noticia['image_url']) }}" style="width:100%">
-                            <h5 class="text-center">Visualizações: {{noticia['visualizacoes']}}</h5><h5 class="text-center">Curtidas: {{noticia['curtidas']}}</h5>
-                        </a>
-                    </div>  
-                {% endfor %}
             {% endfor %}
         </div>
     </body>
